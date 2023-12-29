@@ -1,7 +1,7 @@
 # Getti
 
 ## Overview
-Getti is a user-friendly, customizable app designed to help individuals with ADHD and busy lifestyles manage their day-to-day activities. It integrates various aspects of life management — such as mood tracking, fitness, task management, and more — into a simple, concise, and playful interface.
+Getti is a user-friendly, customizable app designed to help individuals with busy lifestyles manage their day-to-day activities. It integrates various aspects of life management — such as mood tracking, fitness, task management, and more — into a simple, concise, and playful interface.
 
 ## Key Features
 - **Customizable Modules**: Tailor tasks, mood/energy tracking, gratitude moments, and more to fit individual needs.
